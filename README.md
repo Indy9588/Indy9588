@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indy9588
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning ui/ux designs 
+- 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on group project as a fresher
 - 📫 How to reach me gauravindurkar22@gmail.com
 
